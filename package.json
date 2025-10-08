@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "mongodb": "^6.3.0",
+<<<<<<< HEAD
     "mongoose": "^8.0.2"
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+>>>>>>> 191159517364bdc42499da2d125dc29206bc6393
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.28.4",
